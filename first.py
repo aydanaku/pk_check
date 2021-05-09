@@ -51,4 +51,3 @@ for f in range(len(first_name)):
 output = "".join(mix)
 print("Получено:")
 print(output)
-print(50 * "-")
